@@ -1,0 +1,14 @@
+torch
+torchvision
+torchaudio
+ipykernel
+pandas
+numpy
+matplotlib
+seaborn
+tqdm
+pyarrow            # for parquet files
+sentencepiece       # subword (BPE) tokenization -- replaces the old word-level tokenizer
+sacrebleu           # BLEU + chrF
+nltk                # METEOR (run: python -c "import nltk; nltk.download('wordnet'); nltk.download('omw-1.4')")
+rouge-score         # ROUGE-L
