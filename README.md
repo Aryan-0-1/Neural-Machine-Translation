@@ -127,7 +127,7 @@ Trained for 20 epochs on a CUDA GPU (about 5.4 minutes per epoch). Evaluated on 
 
 GitHub: [@Aryan-0-1](https://github.com/Aryan-0-1)
 
-Repository: [RAGnarok](https://github.com/Aryan-0-1/Neural-Machine-Translation/tree/main)
+Repository: [Neural-Machine-Translation](https://github.com/Aryan-0-1/Neural-Machine-Translation/tree/main)
 
 ---
 
